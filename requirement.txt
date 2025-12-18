@@ -1,0 +1,5 @@
+ultralytics    # For YOLOv8
+opencv-python  # For image processing
+networkx       # For Dijkstra and Graph logic
+traci          # For SUMO connection
+matplotlib     # (Optional) To plot the graph 
